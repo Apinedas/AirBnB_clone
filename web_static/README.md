@@ -1,0 +1,2 @@
+# AirBnB clone - web static
+Hi! This folder contains everything that is needed to deploy the static section of the AirBnB Clone. You'll find all the HTML, CSS files and media resources needed to deploy the webpage.
